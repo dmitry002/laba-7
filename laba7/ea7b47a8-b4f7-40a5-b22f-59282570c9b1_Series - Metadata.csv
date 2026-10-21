@@ -1,0 +1,50 @@
+Country Name,Country Code,Series Name,Series Code,2010 [YR2010],2011 [YR2011],2012 [YR2012],2013 [YR2013],2014 [YR2014],2015 [YR2015],2016 [YR2016],2017 [YR2017],2018 [YR2018],2019 [YR2019],2020 [YR2020],2021 [YR2021],2022 [YR2022],2023 [YR2023]
+Ukraine,UKR,"Population, total",SP.POP.TOTL,46456003,46307853,46210056,46126770,45972380,45784896,45616832,45436041,45208907,44957458,44680014,44298640,41048766,37732836
+France,FRA,"Population, total",SP.POP.TOTL,65026211,65340830,65657659,65997932,66312067,66548272,66724104,66918020,67158348,67382061,67601110,67842811,68184457,68372286
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+Data from database: World Development Indicators,,,,,,,,,,,,,,,,,
+Last Updated: 10/08/2026,,,,,,,,,,,,,,,,,
+Code,License Type,Indicator Name,Short definition,Long definition,Source,Topic,Dataset,Unit of measure,Periodicity,Reference period,Aggregation method,Statistical concept and methodology,Development relevance,Limitations and exceptions,Other notes,License URL
+SP.POP.TOTL,CC BY-4.0,"Population, total","Total population is based on the de facto definition of population, which counts all residents regardless of legal status or citizenship. The values shown are midyear estimates.","Total population is based on the de facto definition of population, which counts all residents regardless of legal status or citizenship. The values shown are midyear estimates.","World Population Prospects, United Nations (UN), uri: https://population.un.org/wpp/, publisher: UN Population Division;
+Statistical databases and publications from national statistical offices, National Statistical Offices (NSOs), uri: https://unstats.un.org/home/nso_sites/, publisher: National Statistical Offices;
+Eurostat: Demographic Statistics, Eurostat (ESTAT), uri: https://ec.europa.eu/eurostat/data/database?node_code=earn_ses_monthly, publisher: Eurostat;
+Population and Vital Statistics Report (various years), United Nations (UN), uri: https://unstats.un.org, publisher: UN Statistics Division",Health: Population: Structure,WB_WDI,Unit,Annual,1960-2025,Sum,"Methodology: Population estimates are usually based on national population censuses, and estimates of fertility, mortality and migration.
+
+
+
+Errors and undercounting in census occur even in high-income countries.  In developing countries errors may be substantial because of limits in the transport, communications, and other resources required to conduct and analyze a full census.
+
+
+
+The quality and reliability of official demographic data are also affected by public trust in the government, government commitment to full and accurate enumeration, confidentiality and protection against misuse of census data, and census agencies' independence from political influence. Moreover, comparability of population indicators is limited by differences in the concepts, definitions, collection procedures, and estimation methods used by national statistical agencies and other organizations that collect the data.
+
+
+
+The currentness of a census and the availability of complementary data from surveys or registration systems are objective ways to judge demographic data quality. Some European countries' registration systems offer complete information on population in the absence of a census.
+
+
+
+The United Nations Statistics Division monitors the completeness of vital registration systems. Some developing countries have made progress over the last 60 years, but others still have deficiencies in civil registration systems.
+
+
+
+International migration is the only other factor besides birth and death rates that directly determines a country's population change. Estimating migration is difficult. At any time many people are located outside their home country as tourists, workers, or refugees or for other reasons. Standards for the duration and purpose of international moves that qualify as migration vary, and estimates require information on flows into and out of countries that is difficult to collect.
+
+
+
+One of the major data sources of this indicator is UN Population Division's World Population Prospects, which use the cohort component method to produce population estimates and projections.
+
+
+
+Population projections, starting from a base year are projected forward using assumptions of mortality, fertility, and migration by age and sex through 2050, based on the UN Population Division's World Population Prospects database medium variant.
+Statistical concept(s): Estimates of total population describe the size of total population. Population estimates are dependent on the demographic components of change that are fertility, mortality and migration. As the size of population continues to change throughout the time even within a year, a reference time in the year that the estimate refers to is needed, such as mid-year, end-year or beginning of year. The values shown are midyear estimates.","Increases in human population, whether as a result of immigration or more births than deaths, can impact natural resources and social infrastructure.  This can place pressure on a country's sustainability.  A significant growth in population will negatively impact the availability of land for agricultural production, and will aggravate demand for food, energy, water, social services, and infrastructure. On the other hand, decreasing population size - a result of fewer births than deaths, and people moving out of a country - can impact a government's commitment to maintain services and infrastructure.","Current population estimates for developing countries that lack (i) reliable recent census data, and (ii) pre- and post-census estimates for countries with census data, are provided by the United Nations Population Division and other agencies. 
+
+
+
+The cohort component method - a standard method for estimating and projecting population - requires fertility, mortality, and net migration data, often collected from sample surveys, which can be small or limited in coverage. Population estimates are from demographic modeling and so are susceptible to biases and errors from shortcomings in both the model and the data.
+
+
+
+Because future trends cannot be known with certainty, population projections have a wide range of uncertainty.",Relevance to gender indicator: disaggregating the population composition by gender will help a country in projecting its demand for social services on a gender basis.,https://datacatalog.worldbank.org/public-licenses#cc-by
